@@ -18,7 +18,7 @@
   <component name="ProjectId" id="1UbdKRdLv4DYBy7FXDaeDAChCa8" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -187,7 +187,7 @@
       <option name="presentableId" value="Default" />
       <updated>1575629164318</updated>
       <workItem from="1575629165489" duration="2625000" />
-      <workItem from="1575827369272" duration="5861000" />
+      <workItem from="1575827369272" duration="6081000" />
     </task>
     <servers />
   </component>
