@@ -24,7 +24,7 @@ def beat():
         beat = int(data['beat'])
         patient = data['patient']
         dat = str(datetime.today())
-        print(dat)
+        # print(dat)
         resp = json.dumps({"beat": beat, "patient": patient, "time": dat})
         return Response(resp, status=200, mimetype="application/json")
     resp_msg = "{'error': 'Beat and patient is required in data.'}"
